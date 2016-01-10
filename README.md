@@ -1,2 +1,2 @@
 # sonar
-Exampwle file to use Sonar on an Arduino
+This repository has an example file to user Sonar on an Arduino board.
