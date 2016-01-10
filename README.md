@@ -1,2 +1,2 @@
 # sonar
-Example file to use Sonar on an Arduino
+Exampwle file to use Sonar on an Arduino
