@@ -1,6 +1,6 @@
 #define LOOP_DELAY  5000
 
-#define BUZZER 6
+#define BUZZER 7
 #define BUZZER_SOUND 100
 #define MAX_DISTANCE 30
 
